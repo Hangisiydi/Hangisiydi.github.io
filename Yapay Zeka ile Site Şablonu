@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hangisiydi diye düşünme, Biz seni tanıyoruz!</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <meta name="description" content="Portatif Kamp Ocağı - Katlanır, Her yere taşınabilir, portatif ve kullanımı kolay, acil durumlarda birebir." />
+</head>
+<body>
+  <header>
+    <h1>Hangisiydi diye düşünme, Biz seni tanıyoruz!</h1>
+  </header>
+
+  <main class="container">
+    <div class="product">
+      <div class="image-section">
+        <img src="https://productimages.hepsiburada.net/s/141/960-1280/110000094014719.jpg" alt="Portatif Kamp Ocağı" />
+      </div>
+
+      <div class="info-section">
+        <h2>Portatif Kamp Ocağı</h2>
+        <p class="description">Katlanır, her yere taşınabilir, portatif ve kullanımı kolay, acil durumlarda birebir.</p>
+        <p class="price">280,00 TL</p>
+
+        <div class="actions">
+          <a href="https://wa.me/905538770662?text=Merhaba,%20Portatif%20Kamp%20Ocağı%20hakkında%20bilgi%20almak%20istiyorum." target="_blank" class="btn">WhatsApp ile Satın Al</a>
+          <a href="mailto:umutrade@hotmail.com?subject=Portatif Kamp Ocağı Hakkında" class="btn secondary">E-Posta Gönder</a>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2025 Hangisiydi diye düşünme, Biz seni tanıyoruz! | Tüm hakları saklıdır.</p>
+  </footer>
+</body>
+</html>
